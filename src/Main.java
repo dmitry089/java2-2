@@ -1,7 +1,7 @@
 public class Main {
     public static void main(String[] args) {
         int cost = 100;
-        int depositAmount = 1510;
+        int depositAmount = 1530;
         int bonusCalculation = depositAmount / 100;
 
         if (bonusCalculation < 1000) {
